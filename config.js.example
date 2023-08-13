@@ -1,7 +1,7 @@
 /**
  * telegram bot
  */
-export const botToken = 'TELEGRAM_BOT_TOKEN'
+export const botToken = '6312136866:AAGqjPJS5nylkoP9zxjG_UFpvhTHG8hs6Sc'
 
 /**
  * stock chart
